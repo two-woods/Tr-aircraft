@@ -1,4 +1,4 @@
-module github.com/two-woods/tr-aircraft
+module github.com/two-woods/aircraft
 
 go 1.20
 
